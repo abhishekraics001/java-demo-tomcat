@@ -3,7 +3,7 @@
 <body style="text-align:center; font-family:verdana; background-color:powderblue;">
 
 <h1>Power  Of  DevOps</h1>
-<h2>Srage Version: V2</p>
+<h2>Srage Version: V3</p>
 <br>
 <hr>
 
